@@ -1,0 +1,57 @@
+@media (max-width: 480px) {
+    body {
+        margin-left: 16px;
+        padding-top: 16px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    body {
+        margin-left: 16px;
+        padding-top: 16px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    body {
+        margin-left: 300px;
+        padding-top: 72px;
+    } form {
+        position: fixed;
+        top: 200px;
+        left: 64px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    body {
+        margin-left: 400px;
+        padding-top: 72px;
+    } form {
+        position: fixed;
+        top: 200px;
+        left: 64px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1919px) {
+    body {
+        margin-left: 400px;
+        padding-top: 72px;
+    } form {
+        position: fixed;
+        top: 200px;
+        left: 64px;
+    }
+}
+
+@media (min-width: 1920px) {
+    body {
+        margin-left: 400px;
+        padding-top: 72px;
+    } form {
+        position: fixed;
+        top: 200px;
+        left: 64px;
+    }
+}
